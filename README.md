@@ -1,28 +1,28 @@
 # Bookmark Manager
 
-Notes and helpers collected in one place.
+Practice repo — structure will change.
 
 ## Features
 
-- Minimal dependencies
-- No external account required
-- Basic error messages
+- Keeps a short local config
+- CLI-friendly defaults
+- Readable source layout
 - Simple test commands
 
 ## Stack
 
-TypeScript, Python 3, Go
+TypeScript, Make + shell
 
 ## Getting started
 
-Install dependencies for your stack, then try the sample command below.
+Copy any example config, edit paths, and run from the project root.
 
 ```bash
-python main.py --help
+./run.sh
 ```
 
 ## Notes
 
 - Repo name: `bookmark-manager`
 - Started around 2026
-- MIT when I get around to adding a LICENSE file.
+- Personal use for now — license TBD.
